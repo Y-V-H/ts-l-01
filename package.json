@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Y-V-H/ts-l-01#readme",
   "devDependencies": {
     "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.5.16"
   }
 }
